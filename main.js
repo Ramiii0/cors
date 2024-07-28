@@ -16,7 +16,7 @@ function showPosition(position) {
     "database": "natours",
     "dataSource": "Cluster0",
     "document": {
-      "Coordination":`${data1}`
+      "Coordination":`twat`
     }
   });
   
