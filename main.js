@@ -36,7 +36,7 @@ function showPosition(position) {
       console.log(JSON.stringify(data));
     })
     .catch(error => {
-      console.error('Error:', error);
+      console.error('Error:', error.message);
     });
 console.log("hsi")
 }
