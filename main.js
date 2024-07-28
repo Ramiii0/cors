@@ -38,4 +38,5 @@ function showPosition(position) {
     .catch(error => {
       console.error('Error:', error);
     });
+console.log("hsi")
 }
